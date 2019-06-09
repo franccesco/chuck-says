@@ -1,11 +1,15 @@
 [tool.poetry]
-name = "chuck-norris-facts"
+name = "chuck-says"
 version = "0.1.0"
 description = ""
 authors = ["Franccesco Orozco <franccesco@codingdose.info>"]
 
+[tool.poetry.scripts]
+chuck = 'chuck_says.cli:main'
+
 [tool.poetry.dependencies]
 python = "^3.7"
+requests = "^2.22"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
