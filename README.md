@@ -5,6 +5,9 @@ Because, who wouldn't want that? You better...
 Get your day started as soon you see that sweet Chuck Norris fact of the day in your terminal; there's more than 600+ facts here, baby!
 They're all real... allegedly.
 
+_This package was completely made to write a blog post. It's not meant to be a 'real' project. It's fun though._
+_You can check out the post at: https://codingdose.info/2019/06/08/create-a-project-page-for-your-repositories-easily-with-Jekyll/_
+
 # Installation and Usage
 
 Install this package right now before Chuck installs his foot on your face.
