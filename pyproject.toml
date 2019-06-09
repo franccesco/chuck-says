@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "chuck-says"
 version = "0.1.0"
-description = ""
+description = "Cowsay Chuck Norris Facts"
 authors = ["Franccesco Orozco <franccesco@codingdose.info>"]
+license = "MIT"
+repository = 'https://github.com/franccesco/chuck-says'
+homepage = 'https://franccesco.github.io/chuck-says'
+keywords = ['chuck', 'chuck norris', 'cowsay', 'fortune']
 
 [tool.poetry.scripts]
 chuck = 'chuck_says.cli:main'
