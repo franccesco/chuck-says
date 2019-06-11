@@ -89,4 +89,4 @@ Who the hell knows? I just made this yesterday.
 
 -------------
 
-![chuck -n | cowsay -f dragon | lolcat -t -a -s 120](chuck_animated.gif)
+![chuck -n | cowsay -f dragon | lolcat -t -a -s 120](/chuck_animated.gif)
