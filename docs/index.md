@@ -11,6 +11,9 @@ Because, who wouldn't want that? You better...
 Get your day started as soon you see that sweet Chuck Norris fact of the day in your terminal; there's more than 600+ facts here, baby!
 They're all real... allegedly.
 
+_This package was completely made to write a blog post. It's not meant to be a 'real' project. It's fun though._
+_You can check out the post at: https://codingdose.info/2019/06/08/create-a-project-page-for-your-repositories-easily-with-Jekyll/_
+
 # Installation and Usage
 
 Install this package right now before Chuck installs his foot on your face.
@@ -21,6 +24,7 @@ $ pip install --user chuck-says
 Worried about how to execute it before Chuck executes you? Just call **Chuck**!
 
 ```
+# Automatically add Cowsay
 $ chuck
   ________________________________________
 / Chuck Norris doesn't need a debugger, he \
@@ -32,6 +36,25 @@ $ chuck
              (__)\       )\/\
                  ||----w |
                  ||     ||
+
+# Output fact only if you want to integrate it with another 'cow'
+$ chuck -n | cowsay -f eyes
+ _______________________________________
+/ Chuck Norris has never won an Academy \
+| Award for acting... because he's not  |
+\ acting.                               /
+ ---------------------------------------
+    \
+     \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+        "*$bd$$$$      '*$$$$$$$$$$$o+#"
+             """"          """""""
 ```
 
 To have a fun fact whenever you open your terminal just edit your shell configuration file.
@@ -63,3 +86,7 @@ Boom, your done, get that approved pull request into your CV right now goddammit
 # How it works
 
 Who the hell knows? I just made this yesterday.
+
+-------------
+
+![chuck -n | cowsay -f dragon | lolcat -t -a -s 120](chuck_animated.gif)

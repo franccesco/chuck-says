@@ -1,12 +1,13 @@
 [tool.poetry]
 name = "chuck-says"
-version = "0.1.0"
+version = "0.1.1"
 description = "Cowsay Chuck Norris Facts"
 authors = ["Franccesco Orozco <franccesco@codingdose.info>"]
 license = "MIT"
 repository = 'https://github.com/franccesco/chuck-says'
 homepage = 'https://franccesco.github.io/chuck-says'
 keywords = ['chuck', 'chuck norris', 'cowsay', 'fortune']
+readme = 'README.md'
 
 [tool.poetry.scripts]
 chuck = 'chuck_says.cli:main'
@@ -14,6 +15,7 @@ chuck = 'chuck_says.cli:main'
 [tool.poetry.dependencies]
 python = "^3.7"
 requests = "^2.22"
+click = "^7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^3.0"
