@@ -7,6 +7,7 @@ license = "MIT"
 repository = 'https://github.com/franccesco/chuck-says'
 homepage = 'https://franccesco.github.io/chuck-says'
 keywords = ['chuck', 'chuck norris', 'cowsay', 'fortune']
+readme = 'README.md'
 
 [tool.poetry.scripts]
 chuck = 'chuck_says.cli:main'
