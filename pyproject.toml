@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "chuck-says"
-version = "0.1.0"
+version = "0.1.1"
 description = "Cowsay Chuck Norris Facts"
 authors = ["Franccesco Orozco <franccesco@codingdose.info>"]
 license = "MIT"
