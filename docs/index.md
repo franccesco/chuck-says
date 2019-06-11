@@ -87,6 +87,4 @@ Boom, your done, get that approved pull request into your CV right now goddammit
 
 Who the hell knows? I just made this yesterday.
 
--------------
-
 ![chuck -n | cowsay -f dragon | lolcat -t -a -s 120](/chuck_animated.gif)
