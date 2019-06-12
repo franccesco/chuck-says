@@ -12,7 +12,7 @@ Get your day started as soon you see that sweet Chuck Norris fact of the day in 
 They're all real... allegedly.
 
 _This package was completely made to write a blog post. It's not meant to be a 'real' project. It's fun though._
-_You can check out the post at: https://codingdose.info/2019/06/08/create-a-project-page-for-your-repositories-easily-with-Jekyll/_
+_You can check out the post at [**CodingDose**](https://codingdose.info/2019/06/08/create-a-project-page-for-your-repositories-easily-with-Jekyll/)_
 
 # Installation and Usage
 
